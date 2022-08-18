@@ -1,2 +1,0 @@
-﻿35703
-/media/y4/P1/applications02/Godot_v3.4.2-stable_mono_x11_64/Godot_v3.4.2-stable_mono_x11.64
