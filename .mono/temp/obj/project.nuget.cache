@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9LMc0gP57T+IQwByw5KiRQh+OQDhdW77l+o76NbWlkJDMZXrmoJQFyugliw7YgH4wd5JzXl1Gx0XHln2kNoUg==",
+  "success": true,
+  "projectFilePath": "/home/y4/.godot/Chess 2/Chess 2.csproj",
+  "expectedPackageFiles": [
+    "/home/y4/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/y4/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

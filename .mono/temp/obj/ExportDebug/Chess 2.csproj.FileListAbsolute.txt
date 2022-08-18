@@ -1,0 +1,9 @@
+/home/y4/.godot/Chess 2/.mono/temp/bin/ExportDebug/Chess 2.dll
+/home/y4/.godot/Chess 2/.mono/temp/bin/ExportDebug/Chess 2.pdb
+/home/y4/.godot/Chess 2/.mono/temp/obj/ExportDebug/Chess 2.csproj.AssemblyReference.cache
+/home/y4/.godot/Chess 2/.mono/temp/obj/ExportDebug/Chess 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/y4/.godot/Chess 2/.mono/temp/obj/ExportDebug/Chess 2.AssemblyInfoInputs.cache
+/home/y4/.godot/Chess 2/.mono/temp/obj/ExportDebug/Chess 2.AssemblyInfo.cs
+/home/y4/.godot/Chess 2/.mono/temp/obj/ExportDebug/Chess 2.csproj.CoreCompileInputs.cache
+/home/y4/.godot/Chess 2/.mono/temp/obj/ExportDebug/Chess 2.dll
+/home/y4/.godot/Chess 2/.mono/temp/obj/ExportDebug/Chess 2.pdb
